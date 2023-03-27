@@ -1,0 +1,5 @@
+torch
+numpy
+gymnasium
+-e git+https://github.com/AlexanderPolyakov/baselines.git#egg=baselines
+pygame

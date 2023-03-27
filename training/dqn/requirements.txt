@@ -1,0 +1,4 @@
+-e git+https://github.com/AlexanderPolyakov/baselines.git#egg=baselines
+gymnasium==0.27.0
+-e git+https://github.com/AlexanderPolyakov/gs-gym.git#egg=gym_gs
+torch
